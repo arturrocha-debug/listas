@@ -1,0 +1,28 @@
+<html>
+<head>
+  <style>
+    h1{
+  color: green;
+}
+  </style>
+</head>
+  <body>
+  <h1>Listas Não Ordenadas</h1>
+  <ul>
+    <li>Azul</li>
+    <li>Anil</li>
+    <li>Vermelho</li>
+     <li> Amarelo</li>
+    <li> Violeta </li>
+  </ul>
+  
+  <h1> Listas  ordernadas </h1>
+  <ol>
+  <li> ondas de rádio - 10¹⁹ Hz a 10²⁴ Hz</li>
+    <li> Micro-Ondas - 2450 MHz </li>
+    <li> Intravermelho - 300 GHz a 400 THz </li>
+    <li> Luz visivel - 400 THz a 790 Thz </li>
+    <li> Ultravioleta - 8 x 10¹⁴ Hz a 3 x 10¹⁶ Hz </li>
+  </ol>
+  </body>
+</html>
